@@ -18,7 +18,7 @@ Issues can be [submitted](https://github.com/Avicus/Issues/issues/new) at the [i
 
 * Search the issue tracker to ensure that your issue is not already reported.
 * Be clear in your description
-* Use [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/)it can make your issue that much more imporant because you put a little more into it.
+* Use [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/) it can make your issue that much more imporant because you put a little more into it.
 
 ### Do not:
 
