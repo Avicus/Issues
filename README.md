@@ -1,18 +1,18 @@
 Issues
 ======
 
-This is a public repository for reporting bugs and requesting features relating to Avalanche Network.
+This repository is designed for players to report server bugs pertaining to the Avicus Network server. We encourage collaboration in order to determine the cause of an issue. Please follow the guidelines below.
 
 ### Important:
 
 If you find an exploit or other bug that could cause major issues please consider the following:
 
-1. Privately [contact Avalanche Network developers](mailto:support@avnk.net) about the issue.
+1. Privately [contact Avicus Network staff](mailto:info@avicus.net) about the issue.
 2. **Do not** disclose the issue to the public without allowing time for our staff to fix the issue.
 
 ## Submitting
 
-Issues can be [submitted](https://github.com/AvalancheNetwork/Issues/issues/new) at the [issue tracker](https://github.com/AvalancheNetwork/Issues/issues).
+Issues can be [submitted](https://github.com/Avicus/Issues/issues/new) at the [issue tracker](https://github.com/Avicus/Issues/issues).
 
 ### Do:
 
