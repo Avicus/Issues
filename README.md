@@ -35,21 +35,3 @@ Provide a brief summary of the issue, the title will help us get an idea of what
 **Example Issue*:
 
 > Players can kill other players on their team
-
-### Description
-
-Try to separate your description into three different sections, if possible:
-
-1. **The issue**
-
-    This section should provide a detailed explanation of the issue.
-
-2. **Steps to reproduce**
-
-    If applicable, this section should provide a detailed list of steps needed to reproduce the issue.
-
-3. **Extra information**
-
-    Information that doesn't necessarily fit into any other sections. Common examples are attachments, images, or disclaimers.
-
-
