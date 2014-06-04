@@ -32,6 +32,6 @@ Issues can be [submitted](https://github.com/Avicus/Issues/issues/new) at the [i
 
 Provide a brief summary of the issue, the title will help us get an idea of what we'll be looking at.
 
-**Example Issue*:
+**Example Issue**:
 
 > Players can kill other players on their team
