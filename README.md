@@ -25,6 +25,7 @@ Issues can be [submitted](https://github.com/Avicus/Issues/issues/new) at the [i
 * Bump issues to receive a response (all issues are acknowledged)
 * Go off topic from an issue.
 * Re-create an issue if it was closed.
+* Attempt to attack the issues page with malicious intent such as trolling or general misconduct that doesn't belong.
 * Add comments such as :+1:, +1 or "I like this idea"
 * Submit ideas here, instead discuss them with other players on the forums, then come here.
 
