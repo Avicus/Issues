@@ -17,16 +17,17 @@ Issues can be [submitted](https://github.com/Avicus/Issues/issues/new) at the [i
 ### Do:
 
 * Search the issue tracker to ensure that your issue is not already reported.
-* Be clear in your description
+* Be clear in your description.
 * Use [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/): it can make your issue that much more important, because you put a little more into it.
+* Tell steps how to reproduce the issue.
 
 ### Do not:
 
-* Bump issues to receive a response (all issues are acknowledged)
+* Bump issues to receive a response (all issues are acknowledged).
 * Go off topic from an issue.
 * Re-create an issue if it was closed.
-* Attempt to attack the issues page with malicious intent such as trolling or general misconduct that doesn't belong.
-* Add comments such as :+1:, +1 or "I like this idea"
+* Attempt to attack the issues page with malicious intent such as trolling or being rude.
+* Add comments such as :+1:, +1, "still broken" or "i like this idea"
 * Submit ideas here, instead discuss them with other players on the forums. Post ideas in [Server Feedback](https://avicus.net/forums?topic_id=32). The only exception to this is if the feature has already been confirmed by the developers themselves.
 
 ### Title
